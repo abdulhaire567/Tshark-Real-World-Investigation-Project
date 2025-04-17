@@ -6,4 +6,8 @@
 - VirusTotal
 
 # Question 1: What is the name of the malicious/suspicious domain?
+I began by checking to see all the domains that have been accessed. So I use the below filter to see them.
+![Capture](https://github.com/abdulhaire567/Tshark-Real-World-Investigation-Project/blob/main/Screenshot%202025-04-17%20151039.png)
+
+After 
 
