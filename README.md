@@ -26,4 +26,7 @@
 - -e dns.a — Extract the dns.a field, which is the IPv4 address from a DNS response
 ![Capture](![Capture](https://github.com/abdulhaire567/Tshark-Real-World-Investigation-Project/blob/main/Screenshot%202025-04-17%20151353.png)
 
+# What is the server info of the suspicious domain?
+- To find the the server associated with the suspicious domain. 
+
 
